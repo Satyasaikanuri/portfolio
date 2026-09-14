@@ -24,3 +24,10 @@ dist-isolation
 *.njsproj
 *.sln
 *.sw?
+
+# Root document files & archives
+/*.pdf
+/*.docx
+/*.pptx
+/*.zip
+~$*
