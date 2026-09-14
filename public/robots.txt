@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kanurijagansatyasai.dev/sitemap.xml

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="24" fill="url(#bg-grad)"/>
+  <rect x="4" y="4" width="92" height="92" rx="20" stroke="url(#stroke-grad)" stroke-width="2" fill="none"/>
+  <text x="50" y="62" font-family="'Outfit', 'Inter', sans-serif" font-weight="800" font-size="44" fill="#ffffff" text-anchor="middle" letter-spacing="-1">JS</text>
+  <circle cx="78" cy="24" r="6" fill="#06b6d4"/>
+  <defs>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a0d14"/>
+      <stop offset="1" stop-color="#152035"/>
+    </linearGradient>
+    <linearGradient id="stroke-grad" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+</svg>
